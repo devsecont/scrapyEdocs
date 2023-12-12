@@ -1,0 +1,1 @@
+# Pasta para Armazernar os dados salvos pelo Scrappy
